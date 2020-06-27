@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{D46D536D-15E8-47AF-AEC2-B50B9A86B91F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoteApp.iOS/Main.cs">
+    <Files>
+      <File FileName="NoteApp/MainPage.xaml" Line="4" Column="30" />
+      <File FileName="NoteApp/Models/Note.cs" Line="3" Column="18" />
+      <File FileName="NoteApp/NoteEntryPage.xaml" Line="4" Column="30" />
+      <File FileName="NoteApp/NoteEntryPage.xaml.cs" Line="6" Column="18" />
+      <File FileName="NoteApp/NotesPage.xaml" Line="4" Column="30" />
+      <File FileName="NoteApp/NotesPage.xaml.cs" Line="8" Column="18" />
+      <File FileName="NoteApp/MainPage.xaml.cs" Line="5" Column="18" />
+      <File FileName="NoteApp/App.xaml.cs" Line="5" Column="18" />
+      <File FileName="NoteApp.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NoteApp" expanded="True">
+            <Node name="NoteApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="NoteEntryPage.xaml" expanded="True" />
+              <Node name="NotesPage.xaml" expanded="True" />
+            </Node>
+            <Node name="NoteApp.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NoteApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7904049B-558A-4E73-BE91-0C5C15459971" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

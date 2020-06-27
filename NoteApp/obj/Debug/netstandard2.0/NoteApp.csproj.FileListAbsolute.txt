@@ -1,0 +1,16 @@
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.deps.json
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.dll
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/bin/Debug/netstandard2.0/ref/NoteApp.dll
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/bin/Debug/netstandard2.0/NoteApp.pdb
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.csprojAssemblyReference.cache
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.csproj.CoreCompileInputs.cache
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.AssemblyInfoInputs.cache
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.AssemblyInfo.cs
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.dll
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/ref/NoteApp.dll
+/Users/pellesoderberg/Repos/NoteApp/NoteApp/obj/Debug/netstandard2.0/NoteApp.pdb
