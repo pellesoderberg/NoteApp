@@ -7,7 +7,7 @@
                HorizontalOptions="Center"
                FontAttributes="Bold" />
         <Editor x:Name="editor"
-                Placeholder="Enter your note"
+                Placeholder="Enter your note!!!!"
                 HeightRequest="100" />
         <Grid>
             <Grid.ColumnDefinitions>

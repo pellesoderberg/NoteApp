@@ -11,7 +11,7 @@ namespace NoteApp
         public MainPage()
         {
             InitializeComponent();
-
+                
             if (File.Exists(_fileName))
             {
                 editor.Text = File.ReadAllText(_fileName);
